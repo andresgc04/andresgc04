@@ -36,7 +36,6 @@ And more...
 [![Instagram](https://img.shields.io/badge/Instagram-@andresgc07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/andresgc07)
 [![Facebook](https://img.shields.io/badge/Facebook-@AndresGc1997-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/AndresGc1997)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Eugenio_Guerrero_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andr%C3%A9seugenioguerrerocordero)
-[![Web](https://img.shields.io/badge/My_Website-andresgc04.github.io/Cv-Andres-Guerrero-Cordero-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://andresgc04.github.io/Cv-Andres-Guerrero-Cordero)
 
 ## Some YouTube videos:
 
