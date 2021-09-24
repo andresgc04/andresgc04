@@ -37,57 +37,57 @@ And more...
 [![Facebook](https://img.shields.io/badge/Facebook-@AndresGc1997-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/AndresGc1997)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Eugenio_Guerrero_Cordero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andr%C3%A9seugenioguerrerocordero)
 
-## Some YouTube videos:
+## Some of my projects:
 
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
    <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
   </tr>
     <tr>
     <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
    <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+	<a href="">
+  		<img src="">
 	</a>
 	</td>
   </tr>
@@ -99,4 +99,4 @@ And more...
 
 [![Email Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](mailto:andresgc1997@outlook.com)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/343001234567?text=Quiero%20comunicarme%20contigo%20para%20más%20información)
