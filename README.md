@@ -3,7 +3,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/andresgc04?style=social)
 
-I'm a professional software developer for more than five years.
+I have been a professional software developer for five years.
 
 As a lover of technology and innovation, I have always been fascinated by how they have been able to convert energy into data and represent it visually. That's why my love for technology and its branches was born.
 
