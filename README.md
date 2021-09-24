@@ -11,7 +11,7 @@ Since then I have dedicated myself to specializing in mobile application develop
 In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.
 
 ## Skills:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
