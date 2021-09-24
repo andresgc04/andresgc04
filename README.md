@@ -1,12 +1,9 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Andres Eugenio Guerrero Cordero
 ### Freelance Full-Stack Web Developer Engineer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/andresgc04?style=social)
 
-//![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
-
-I'm a professional software developer for more than ten years.
+I'm a professional software developer for more than five years.
 
 In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
 Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
