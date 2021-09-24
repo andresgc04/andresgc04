@@ -100,3 +100,5 @@ And more...
 [![Email Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=101010)](mailto:andresgc1997@outlook.com)
 </br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+18293418220?text=Quiero%20comunicarme%20contigo%20para%20más%20información)
+</br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/AndresaGc)
