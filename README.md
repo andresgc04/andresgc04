@@ -5,10 +5,15 @@
 
 I'm a professional software developer for more than five years.
 
-In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
-Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
+As a lover of technology and innovation, I have always been fascinated by how they have been able to convert energy into data and represent it visually. That's why my love for technology and its branches was born.
 
-In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.
+I consider myself a gentle, kind, honest and social person. I have skills and agility to work under pressure and I also like to work collaboratively. 
+
+My goals are to obtain new knowledge and skills in the technological field and at the same time to be able to implement them in the professional field. To be able to contribute to the advancement of technological and innovative procedures of companies.
+
+I have experience as a freelancer in the creation of 2 desktop software systems developed in C# windows forms. I also have experience as an IT manager and programmer at the CompucentroPlaza Institute in San Pedro de Macoris. Developing a new system for enrollment management, course creation and payments.
+
+I also have experience as FullStack Web and Mobile, using the frameworks React.Js, React Native and Vue.js, set C# or PHP for the realization of API services using the repository pattern.
 
 ## Skills:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
