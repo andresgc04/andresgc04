@@ -13,7 +13,7 @@ My goals are to obtain new knowledge and skills in the technological field and a
 
 I have experience as a freelancer in the creation of 2 desktop software systems developed in C# windows forms. I also have experience as an IT manager and programmer at the CompucentroPlaza Institute in San Pedro de Macoris. Developing a new system for enrollment management, course creation and payments.
 
-I also have experience as FullStack Web and Mobile, using the frameworks React.Js, React Native and Vue.js, set C# or PHP for the realization of API services using the repository pattern.
+I also have experience as FullStack Web and Mobile, using the frameworks React.Js, React Native and Vue.js, set C# for the realization of API services using the repository pattern.
 
 ## Skills:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
