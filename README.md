@@ -66,6 +66,8 @@ And more...
 	<h1>POKEDEX INTERACTIVO</h1>
 	<a href="https://andresgc04.github.io/Pokedex-Interactivo/">
   		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743922/Proyectos/Pokedex_Interactivo_rorwa4.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635744114/Proyectos/Pokedex_Interactivo_parte_2_dgf1z2.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635744203/Proyectos/Pokedex_Interactivo_parte_3_sxtzgu.png">
 	</a>
 	</td>
   </tr>
