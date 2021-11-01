@@ -49,12 +49,15 @@ And more...
     <td>
 	<a href="https://ostingenieria.com/">
   		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
-		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743479/Proyectos/OST-ING_Parte_2_rtnxtm.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743484/Proyectos/OST-ING_Parte_3_igxatj.png">
 	</a>
 	</td>
     <td>
 	<a href="https://andresgc04.github.io/Randys-Mofongos/">
-  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743304/Proyectos/Randy_pn5u67.png">
+  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743617/Proyectos/Randy_parte_2_bgjluv.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743620/Proyectos/Randy_parte_3_w5iowe.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743304/Proyectos/Randy_pn5u67.png">
 	</a>
 	</td>
     <td>
