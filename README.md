@@ -49,11 +49,12 @@ And more...
     <td>
 	<a href="https://ostingenieria.com/">
   		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
+		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
 	</a>
 	</td>
     <td>
-	<a href="">
-  		<img src="">
+	<a href="https://andresgc04.github.io/Randys-Mofongos/">
+  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743304/Proyectos/Randy_pn5u67.png">
 	</a>
 	</td>
     <td>
