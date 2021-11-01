@@ -48,7 +48,7 @@ And more...
   <tr>
     <td>
 	<a href="https://ostingenieria.com/">
-  		<img src="https://mega.nz/file/ghpk0RDR#fcVgiLBfUP3Ae0ihRWR3s2XddLj-Z1UUzVuW2xk_IbA">
+  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
 	</a>
 	</td>
     <td>
