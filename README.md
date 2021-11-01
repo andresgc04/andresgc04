@@ -47,13 +47,15 @@ And more...
 <table style="width:100%">
   <tr>
     <td>
+	<h1>OST INGENIERIA</h1>
 	<a href="https://ostingenieria.com/">
-  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743014/Proyectos/OST-ING_ehuhhu.png">
+  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743765/Proyectos/OST-ING_ufpqpa.png">
 		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743479/Proyectos/OST-ING_Parte_2_rtnxtm.png">
 		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743484/Proyectos/OST-ING_Parte_3_igxatj.png">
 	</a>
 	</td>
     <td>
+	<h1>RANDYS MOFONGOS</h1>
 	<a href="https://andresgc04.github.io/Randys-Mofongos/">
   		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743617/Proyectos/Randy_parte_2_bgjluv.png">
 		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743620/Proyectos/Randy_parte_3_w5iowe.png">
@@ -61,8 +63,9 @@ And more...
 	</a>
 	</td>
     <td>
-	<a href="">
-  		<img src="">
+	<h1>POKEDEX INTERACTIVO</h1>
+	<a href="https://andresgc04.github.io/Pokedex-Interactivo/">
+  		<img src="https://res.cloudinary.com/duw8p35e0/image/upload/v1635743922/Proyectos/Pokedex_Interactivo_rorwa4.png">
 	</a>
 	</td>
   </tr>
